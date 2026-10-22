@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Контрагенты" id="7bed19dd-fa36-4e8d-94bb-748d2289654d" configVersion="4535fc168e840d47a33a672dfdd56b6a00000000"/>
+		<Metadata name="Catalog.Товары" id="1e3b9319-4704-424e-8c2f-ab8f1884e0ac" configVersion="ef230b89f732c240b825296bb2f0dc7d00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="fe9e396f-9408-45be-8812-e9eef798bc1a" configVersion="f8aa74f8bf14254db1416d175042a19400000000"/>
+		<Metadata name="Document.Поступление" id="b4c0e5f4-57d5-45a2-9891-8b5383a7f3ec" configVersion="420c9b91185e7340a73a79c3c7d9553c00000000">
+			<Metadata name="Document.Поступление.TabularSection.СписокТоваров.Attribute.Товар" id="272b2115-23d6-487c-b844-dfbcbdf013ba"/>
+			<Metadata name="Document.Поступление.TabularSection.СписокТоваров.Attribute.Количество" id="7c0d7b7a-89e8-4ea4-ab2e-da42e4e7f742"/>
+			<Metadata name="Document.Поступление.TabularSection.СписокТоваров" id="ac069fc6-9dcc-4cdf-a460-a33d4f796fee"/>
+		</Metadata>
+		<Metadata name="Document.Реализация" id="f543868b-d4da-4a96-9ae7-5774eff4f0aa" configVersion="0571784383611b41a9e7f927cfaad9d200000000">
+			<Metadata name="Document.Реализация.TabularSection.СписокТоваров.Attribute.Товар" id="22a74ff8-47ab-4c2c-8744-d20e3ec96881"/>
+			<Metadata name="Document.Реализация.TabularSection.СписокТоваров" id="5b5f19da-8534-4c55-ac25-6a0787604da8"/>
+			<Metadata name="Document.Реализация.TabularSection.СписокТоваров.Attribute.Количество" id="d0546176-5204-4480-8d44-19234d82b358"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="9f419e36-2048-4c92-be30-6e139de8fb2a" configVersion="80744c8ef5a3764183b3467260b5967e00000000"/>
+		<Metadata name="Subsystem.МиниСклад" id="a45d7410-987b-40f0-bc4a-ce93f9ac20fb" configVersion="da023ffd7ecf0e499fa7197642c1864f00000000"/>
+		<Metadata name="Subsystem.МиниСклад.CommandInterface" id="a45d7410-987b-40f0-bc4a-ce93f9ac20fb.1" configVersion="28c7889f9b1c6b4e9d8df27fdb61fcd500000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
